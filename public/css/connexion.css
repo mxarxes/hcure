@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+div{
+	box-shadow: 1px 1px 1px black;
+	padding:5px;
+	border-radius: 3px;
+
+
+}
+h3{
+	color: white;
+	margin: 0;
+}
